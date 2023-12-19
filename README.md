@@ -10,14 +10,12 @@ Hi 👋 I'm Martin
 - ✉️ Drop me a mail [hello@martin-bertele.com](mailto:hello@martin-bertele.com) or connect with my Socials :)
 
 
+<!--
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/martin-bertele-a404b0237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/martin_bertele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/martin_bertele/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.meetup.com/members/402448787/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/osompress/simple-social-icons/develop/icons/SVG/meetup.svg" width="32" height="32" /></a>   
 </p>
   
-
-
-<!--
 **martin-bertele/martin-bertele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
