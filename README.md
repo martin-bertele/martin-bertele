@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=martin-bertele.martin-bertele&format=true)
+<img align=right src="https://visitor-badge.laobi.icu/badge?page_id=martin-bertele.martin-bertele&format=true" />
 
 Flutter Enthusiast
 ==================
