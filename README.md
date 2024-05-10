@@ -1,10 +1,10 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=martin-bertele.martin-bertele&format=true)
+
 Flutter Enthusiast
 ==================
 
 Hi 👋 I'm Martin
 
-
-- 🔭 Employee at [SD Software Design GmbH](https://github.com/Software-Design)
 - 🌍 Based in Freiburg, South of Germany
 - 🌱 I’m currently learning with [Andrea Bizzotto's](https://github.com/bizz84) great course material
 - ✉️ Drop me a mail [hello@martin-bertele.com](mailto:hello@martin-bertele.com) or connect with my Socials :)
