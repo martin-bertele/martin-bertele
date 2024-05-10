@@ -155,12 +155,12 @@
      id="style21">
 
      :root {
-    --device-color: black; /* color for light mode */
+    --mode-color: black; /* color for light mode */
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --device-color: black; /* color for dark mode */
+      --mode-color: white; /* color for dark mode */
     }
   }
     @keyframes pop-in {
@@ -189,12 +189,9 @@
     .typewriter-text {
             font-family: 'Poetsen';
             fill: none;
-            stroke: black;
+            stroke: var(--mode-color);
             stroke-width: 1.5px;
-
-
         }
-
 
     </style>
   <g
@@ -202,7 +199,7 @@
      transform="matrix(0.17620139,0,0,0.17620139,-13.126041,-30.917468)">
     <path
        class="mobile-phone"
-       fill="var(--device-color)"
+       fill="var(--mode-color)"
        d="m 758.98,1020 h 210 a 15,15 135 0 0 15,-15 V 675 a 15,15 45 0 0 -15,-15 h -210 a 15,15 135 0 0 -15,15 v 330 a 15,15 45 0 0 15,15 z m 60,-300 h 90 a 15,15 45 0 1 15,15 v 210 a 15,15 135 0 1 -15,15 h -90 a 15,15 45 0 1 -15,-15 V 735 a 15,15 135 0 1 15,-15 z"
        id="path21"
        style="paint-order:markers fill stroke"
@@ -210,14 +207,14 @@
        inkscape:original-d="m 743.98,1020 h 240 V 660 h -240 z m 60,-300 h 120 v 240 h -120 z" />
     <path
        class="tablet"
-       fill="var(--device-color)"
+       fill="var(--mode-color)"
        d="m 563.98,495.01 v 390 a 15,15 45 0 0 15,15 h 90 a 15,15 135 0 0 15,-15 v -30 a 15,15 45 0 0 -15,-15 h -30 a 15,15 45 0 1 -15,-15 l 0,-270 a 15,15 135 0 1 15,-15 h 390 a 15,15 45 0 1 15,15 v 330 a 15,15 45 0 0 15,15 h 30 a 15,15 135 0 0 15,-15 v -390 a 15,15 45 0 0 -15,-15 h -510 a 15,15 135 0 0 -15,15 z"
        id="path23"
        inkscape:path-effect="#path-effect1275"
        inkscape:original-d="m 563.98,480.01 v 420 h 120 v -60 h -60 v -300 h 420 v 360 h 60 v -420 z" />
     <g
        class="desktop-other-components"
-       fill="var(--device-color)"
+       fill="var(--mode-color)"
        id="g29">
       <path
          d="m 366.76,840.01 h -27.758 a 15,15 135 0 0 -15,15 v 30 a 15,15 45 0 0 15,15 h 149.98 a 15,15 135 0 0 15,-15 v -90 a 15,15 45 0 0 -15,-15 h -71.95 c -8.28427,0 -14.88774,6.75119 -15.98086,14.95693 -1.66262,12.48086 -5.36201,23.75767 -10.50616,32.92678 -4.04324,7.20682 -8.78167,12.11629 -8.78498,12.11629 z"
