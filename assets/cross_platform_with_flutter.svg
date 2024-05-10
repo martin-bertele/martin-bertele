@@ -147,7 +147,7 @@
        id="style17">
             @font-face {
                 font-family: 'Poetsen';
-                src: url('https://github.com/martin-bertele/martin-bertele/assets/PoetsenOne-Regular.ttf');
+                src: url('https://github.com/martin-bertele/martin-bertele/raw/main/assets/PoetsenOne-Regular.ttf');
             }
         </style>
   </defs>
